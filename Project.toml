@@ -1,0 +1,7 @@
+name = "JuliaTestPackage"
+uuid = "8843a12c-77f0-4fc9-a4a5-602f22f4063a"
+authors = ["Mohibullah Shirazi <mohibullah.shirazi@afiniti.com>"]
+version = "0.1.0"
+
+[deps]
+CmdStan = "593b3428-ca2f-500c-ae53-031589ec8ddd"
