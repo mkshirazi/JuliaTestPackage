@@ -17,7 +17,7 @@ version = "0.8.1"
 
 [[CmdStan]]
 deps = ["CSV", "DataFrames", "DelimitedFiles", "DocStringExtensions", "Requires", "Statistics", "Unicode"]
-path = "../CmdStan.jl"
+git-tree-sha1 = "4c323d773e3f0cbac6fbc2c37732961ad6bfd4ad"
 uuid = "593b3428-ca2f-500c-ae53-031589ec8ddd"
 version = "6.0.5"
 
